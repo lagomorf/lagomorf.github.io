@@ -1,0 +1,14 @@
+- title: home
+  link: /
+- title: articles 
+  link: /articles
+- title: notes
+  link: /notes
+- title: thoughts
+  link: /thoughts
+- title: library
+  link: /library
+- title: gallery 
+  link: /gallery
+- title: about
+  link: /about
